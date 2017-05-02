@@ -1,0 +1,10 @@
+{
+  "name": "rixifx",
+  "version": "0.0.1",
+  "author": "Richard Bernards <richard.bernards@gmail.com>",
+  "description": "A test or dummy lifx cli app",
+  "main": "./lifx.js",
+  "dependencies" : {
+    "lifx-api" : "1.0.1"
+  }
+}
