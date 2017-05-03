@@ -3,7 +3,7 @@
 // RUN "npm install dark-sky --save" beforehand
 
 const DarkSky = require('dark-sky')
-const forecast = new DarkSky('9df7637b6c5e1384d9313c3393da2cd6')
+const forecast = new DarkSky('SECRET KEY')
 
 forecast
     .latitude('37.8267')            // required: latitude, string.
