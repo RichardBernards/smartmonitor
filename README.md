@@ -2,6 +2,8 @@
 
 Currently only containing demo-code to get a clear understanding of possibilities.
 
+a [Sails](http://sailsjs.org) application
+
 ## Todo
 * Finish list of demos
   * ~~Google Calendar~~
