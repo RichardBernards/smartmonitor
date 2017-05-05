@@ -11,6 +11,7 @@ Currently only containing demo-code to get a clear understanding of possibilitie
   * ~~IFTTT send event~~ and _IFTTT receive event_
   * _Presence detection_
   * _network camera feeds_
+  * _Logitech Media Server connection (currently playing)_
   * _notifications_
   * _Google Keep notes_
 * Create example module
